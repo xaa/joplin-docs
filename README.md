@@ -1,7 +1,7 @@
 # Joplin-docs
 An attempt to refactor the project documentation. See the [about page](https://xaa.fyi/joplin-docs/about-joplin-docs) for more details.
 
-Web access: [https://xaa.fyi/joplin-docs](https://xaa.fyi/joplin-docs)
+Web access: [https://xaa.fyi/joplin-docs](https://xaa.fyi/joplin-docs)  
 Joplin official website (and documentation):  [joplinapp.org](https://joplinapp.org)
 
 ## Roadmap proposal
