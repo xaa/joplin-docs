@@ -10,11 +10,11 @@ slug: about-joplin-docs
 
 # In a nutshell
 
-The objective of the Documentation Center is to unify the Joplin documentation and become a reference point for everyone. A user-friendly area maintained by the community for new & advanced users. Help us to [refactor the Joplin project documentation](https://github.com/laurent22/joplin/blob/2b66759e3a8022bce81cb86d1eca1e47b5f8928e/readme/gsoc2022/ideas.md#3-refactor-the-project-documentation).
+The Joplin-docs objective is to unify the documentation. A user-friendly and qualitative area maintained by the community for new & advanced Joplin users. A place where official doc and extended doc (tip&tricks, howto) can live together.
 
-Nowadays Joplin documentation is divided in the [Forum](https://discourse.joplinapp.org/), official [website](https://joplinapp.org/), [Discourse forum](https://discord.gg/ha87Fu62) and [GitHub](https://github.com/laurent22/joplin). When discovering the project, it's a game of back and forth between those sources. The docs exist but is difficult to follow and it's hard to keep track of the latest infos, advises, receipts, methods, features...
+Nowadays Joplin documentation is in a giant readme file and the rest is divided in the [Forum](https://discourse.joplinapp.org), official [website](https://joplinapp.org), [Discord](https://discord.gg/ha87Fu62) and [GitHub](https://github.com/laurent22/joplin/tree/dev/readme). When discovering the project, it’s a game of back and forth between those sources. The docs exist but is difficult to follow.
 
-We invite you to contribute by adding your best receipts, tips & tricks or help to copy the official doc and describe Joplin new features. Anyone is welcome, To continue the discussion and share your thoughts about this initiative join us on [https://discourse/postrelated-tbd](https://discourse/postrelated-tbd).
+[Join us](https://discourse.joplinapp.org) on the  forum to continue the discussion, give a hand or share your thoughts about this initiative.
 
 **Current features**
 
